@@ -1,4 +1,5 @@
 // expose.js
+//explore
 
 window.addEventListener('DOMContentLoaded', init);
 
